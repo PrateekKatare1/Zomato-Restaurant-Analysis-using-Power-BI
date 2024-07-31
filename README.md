@@ -10,7 +10,7 @@ Counting restaurants by average ratings
 Creating buckets for average price ranges and finding out how many restaurants fall in each bucket
 Calculating the percentage of restaurants with table booking and online delivery options
 Developing charts based on cuisines, city, ratings, and other relevant parameters
-To achieve these objectives, the project used various advanced Excel functions such as VLOOKUP, PivotTables, and conditional formatting. SQL queries were executed to extract relevant data from the Zomato dataset. The resulting data was then used to create interactive dashboards using Power BI and Tableau, providing valuable insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
+To achieve these objectives, the project used various advanced Excel functions such as VLOOKUP, PivotTables, and conditional formatting. SQL queries were executed to extract relevant data from the Zomato dataset. The resulting data was then used to create interactive dashboards using Power BI , providing valuable insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
 
 The project showcases the use of Excel, SQL, and dashboard tools such as Power BI for data analysis and visualization, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
 
